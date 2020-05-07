@@ -1,1 +1,3 @@
 # sectest
+
+Testing security vulnerabilities.
